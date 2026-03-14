@@ -1,6 +1,7 @@
 # Gitignore settings for ESPHome
 /.esphome/
 /secrets.yaml
+/CLAUDE.md
 
 # Bosch datasheet (large binary, not redistributable)
 *.pdf
